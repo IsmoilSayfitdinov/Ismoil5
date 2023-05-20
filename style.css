@@ -1,0 +1,324 @@
+*{
+    margin: 0px;
+}
+.main-block{
+    background-color: #FFF;
+    max-width:1920px ;
+    padding: 67px;
+    display: flex;
+    flex-wrap:wrap ;
+    margin: 0 auto;
+}
+
+.block{
+   font-size: 25px;
+    margin-left: 457px;
+    margin-bottom: 0px;
+    cursor: pointer;
+}
+
+.block-2{
+    font-size: 25px;
+    margin-left: 48px;
+    cursor: pointer;
+}
+
+.block-3{
+    font-size: 25px;
+    margin-left: 48px;
+    cursor: pointer;
+}
+
+.block-4{
+    font-size: 25px;
+    margin-left: 48px;
+}
+
+.main-block2{
+    height: 93px;
+    width: 416px;
+    margin-left:412px;
+    display: flex;
+}
+
+.foto{
+    width: 25px;
+    height: 25px;
+    margin-left:5pxpx;
+}
+
+.foto-bell{
+    width: 25px;
+    height: 25px;
+    margin-left: 80px;
+}
+
+.block-5{
+width: 123px;
+height: 50px;
+background-color: #99BAED;
+border-radius: 20px;
+margin-left: 87px;
+margin-top: 0px;
+}
+
+
+.main-block-3{
+    width: 576px;
+    height: 330px;
+    font-size: 75PX;
+    background-color: #FFF;
+}
+
+.style{
+    color: coral;
+}
+
+.none{
+    color: black;
+}
+
+.foto-style{
+    margin-left: 24px;
+}
+
+.main-block-4{
+    width: 526px;
+    height: 114px;
+    margin-top: 29px;
+   
+    font-size: 25px;
+    background-color: #FFF;
+  
+}
+
+.main-block-5{
+    width: 188px;
+    height: 75px;
+    margin-top: 120px;
+    font-size: 25px;
+    background-color: #99BAED;
+    border-radius: 25px;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+   
+}
+
+.text{
+    margin-left: 42px;
+   color: #FFF;
+}
+
+.jasur{
+    margin-top: 226px;
+    margin-left: 82px;
+}
+
+.main-block-6{
+    margin-left: 149px;
+    margin-top: 337px;
+    font-size: 70px;
+}
+
+.main-block-7{
+    width: 526px;
+    height: 114px;
+    font-size: 25px;
+    margin-top: 80px;
+}
+
+.main-block-8{
+    width: 526px;
+    height: 114px;
+    margin-top: 48px;
+    font-size: 25px;
+}
+
+.main-block-9{
+    width: 188px;
+    height: 75px;
+    background-color: #99BAED;
+    font-size: 25px;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    margin-top: 131px;
+}
+
+.yulduz{
+margin-left: 35px;
+color: #FFF;
+}
+
+.main-block-10{
+    width: 387px;
+    height: 164px;
+    margin-top: 349px;
+    margin-left: 771px;
+    font-size: 70px;
+    margin-top: 136px;
+}
+
+.main{
+    display: flex;
+    margin-top: 83px;
+}
+
+.main-block-11{
+    width: 441px;
+    height: 533px;
+    background-color: #96ABFF;
+    margin-left: 249px;
+   border-radius: 29px
+}
+
+.main-block-12{
+    width: 441px;
+    height: 533px;
+    background-color: #96ABFF;
+    margin-left: 49px;
+    border-radius: 29px;
+}
+
+.main-block-13{
+    width: 441px;
+    height: 533px;
+    background-color: #96ABFF;
+    margin-left: 49px;
+    border-radius: 29px;
+}
+
+.qaychi{
+    width: 103px;
+    height: 126px;
+    background-color: #E5ECFE;
+    display: flex;
+    align-items: center;
+    border-radius: 20px;
+    margin-top: 50px;
+    margin-left: 169px;
+}
+.qaychi-rasmi{
+    margin-left: 22px;
+}
+
+.hair-cut{
+    font-size: 45px;
+    margin-top: 59px;
+    margin-left: 139px;
+    color: #163561;
+    ;
+}
+
+.kop-yoziq{
+    font-size: 25px;
+    margin-top: 60px;
+    margin-left: 41px;
+    margin-right: 41px;
+    color: #E5ECFE;
+}
+
+.sartaroshchi{
+    width: 103px;
+    height: 126px;
+    background-color: #E5ECFE;
+    display: flex;
+    align-items: center;
+    border-radius: 20px;
+    margin-top: 50px;
+    margin-left: 169px;
+}
+
+.sartaroshchi-rasmi{
+    margin-left: 33px;
+}
+
+.board{
+    font-size: 45px;
+    margin-top: 59px;
+    margin-left: 139px;
+     color: #163561;
+    
+}
+
+.yoziq{
+    font-size: 25px;
+    margin-top: 60px;
+    margin-left: 41px;
+    margin-right: 41px;
+    color: #E5ECFE; 
+}
+
+.sepgich{
+    width: 103px;
+    height: 126px;
+    background-color: #E5ECFE;
+    display: flex;
+    align-items: center;
+    border-radius: 20px;
+    margin-top: 50px;
+    margin-left: 169px;
+}
+
+.sepgich-foto{
+    margin-left: 20px;
+}
+
+.facial{
+    font-size: 45px;
+    margin-top: 59px;
+    margin-left: 139px;
+    color: #163561;
+}
+
+.yoziq{
+    font-size: 25px;
+    margin-top: 60px;
+    margin-left: 41px;
+    margin-right: 41px;
+    color: #E5ECFE; 
+}
+
+.foto1{
+    margin-top: 272px;
+ margin-left: 781px;
+    width: px;
+    height: 87px;
+    font-size: 70px;
+}
+
+.rasmlar{
+    margin-top: 110px;
+    margin-left: 30px;
+
+}
+
+.ohirgi{
+    width: 188px;
+    height: 75px;
+    background-color: #96ABFF;
+    margin-top: 77px;
+    margin-left: 866px;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+}
+.-text{
+    color: #ffffff;
+    font-size: 20px;
+    margin-left: 57px;
+}
+
+.rasm{
+    margin-left: 25px;
+    
+}
+
+.rang{
+    color: coral;
+}
+
+.rang1{
+    color: coral;
+}
